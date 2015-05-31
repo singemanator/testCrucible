@@ -1,0 +1,15 @@
+PLINK v1.90p 64-bit (12 May 2015)
+Options in effect:
+  --file toy
+
+Hostname: MacBook-Pro-de-Khaled.local
+Working directory: /Users/khaledbenali/Desktop/plink_src
+Start time: Wed May 20 14:42:24 2015
+
+Random number seed: 1432147344
+8192 MB RAM detected; reserving 4096 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (2 variants, 2 people).
+--file: plink.bed + plink.bim + plink.fam written.
+
+End time: Wed May 20 14:42:24 2015
