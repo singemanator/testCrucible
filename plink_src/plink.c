@@ -13,7 +13,7 @@
 
 // You should have received a copy of the GNU General Public License
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
-// Intégration git à webstorm test 
+// Intégration git à webstorm test
 // Uncomment "#define NOLAPACK" in plink_common.h to build without LAPACK.
 
 #include "plink_common.h"
