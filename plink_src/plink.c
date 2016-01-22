@@ -15,11 +15,9 @@
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // Intégration git à webstorm test
 // Uncomment "#define NOLAPACK" in plink_common.h to build without LAPACK.
+// Webstorm et crucible
 
-// YOUHOU ESSAIE WEBSTORM
-// CRUCIBLE ESSAIE
-// TEST TEST
-// Test crucible
+// rejierwjewio
 
 
 #include "plink_common.h"
