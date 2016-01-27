@@ -1,6 +1,7 @@
 /**
  * Created by khaledbenali on 16-01-21.
  */
+    /*Test */
 var assert = require("assert")
 describe('Array', function(){
     describe('#indexOf()', function(){
@@ -8,6 +9,6 @@ describe('Array', function(){
             assert.equal(-1, [1,2,3].indexOf(5));
             assert.equal(-1, [1,2,3].indexOf(0));
             assert.equal(-1, [1,2,3].indexOf(2));
-        })
-    })
+})
+})
 })
